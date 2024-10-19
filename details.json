@@ -1,0 +1,7 @@
+{
+    "name": "SSD1309",
+    "description": "Display library to show graphics on the SSD1309",
+    "readme": "Yes",
+    "type": "library",
+    "version": 1
+}
