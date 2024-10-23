@@ -1,0 +1,9 @@
+{
+    "024e3094-0cfc-4c18-92bd-274bb893d77f": {
+        "name": "Standby",
+        "description": "An all in one SmartScreen that shows temperatures, usage, power, a clock and media playing controls.",
+        "publisher": "Novodo",
+        "repo": "https://github.com/NovodoOfficial/Standby",
+        "version": 1
+    }
+}
